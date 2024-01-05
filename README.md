@@ -20,7 +20,7 @@ This dataset was collected during April–December 2015.It contains the medical 
 The dataset contains 13 features, which report clinical, body, and lifestyle information.
 
 # Description of columns:
-Numerical features:
+Numerical features:\n
 age: age of the patient (years)
 creatinine phosphokinase (CPK): level of the CPK enzyme in the blood (mcg/L)
 ejection fraction: percentage of blood leaving the heart at each contraction (percentage)
