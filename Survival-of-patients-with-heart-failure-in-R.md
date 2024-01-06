@@ -110,7 +110,7 @@ as the target in our binary classification study, states if the patient
 died or survived before the end of the follow-up period, that was 130
 days on average.<br>
 
-## **Purpose of my project:**Carrying out EDA to look for important factors for predicting survival of patients from heart failure.
+## **Purpose of my project:**Carrying out EDA to look for important factors for predicting survival of patients from heart failure and create a model using logistic regression to predict survival of patients.
 
 ``` r
 #loading necessary libraries
